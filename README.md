@@ -1,18 +1,13 @@
-# 👋 Привет, я Усов Дмитрий Владимирович
+# 👋 
 
-**QA Engineer**  
-4 года опыта в тестировании web/mobile-приложений, REST API и backend-функциональности.
+QA Engineer с коммерческим опытом тестирования web/mobile приложений и backend-функциональности. Специализируюсь на API testing, SQL-валидации данных, анализе логов, диагностике дефектов и проверке интеграционных сценариев.
 
-- Тестирую web и mobile-приложения
-- Работаю с REST API, SQL, логами и клиент-серверной логикой
-- Проверяю frontend/backend functionality, интеграции и бизнес-логику
-- Использую Postman, Swagger, Jira, Confluence, Grafana, Graylog, RabbitMQ
-- Работал в Agile/Scrum-командах с backend/frontend-разработчиками, аналитиками и дизайнерами
+Работал с Postman, Swagger, REST API, Test IT, Charles Proxy, Lens, Grafana, Graylog, RabbitMQ, Linux/WSL, MySQL/PostgreSQL, Dbeaver. Имею опыт работы в Agile/Scrum командах и взаимодействия с разработчиками, аналитиками и дизайнерами.
 
 ## Опыт
 
-- **QA Engineer** в **01tech**
-- **QA Engineer** в **100HP Games**
+- **01tech**
+- **100HP Games** 
 
 ## Основной стек
 
